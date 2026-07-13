@@ -1,0 +1,5 @@
+functions-framework
+requests
+pandas
+openpyxl
+google-cloud-storage
